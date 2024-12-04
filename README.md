@@ -1,5 +1,5 @@
 #This is my local Repo...............
 
-THis is dummy project
+This is dummy project
 <br>
 Author: Dhanashri Nirmal
